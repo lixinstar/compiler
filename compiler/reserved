@@ -1,4 +1,5 @@
 break 	case 	char 	const 	continue	do
 double 	else 	float 	for 	if		int
 return 	short	sizeof 	struct	switch		void
-while 	* / + - : = > <= < >= ; ( ) # { } 	letter
+while 	* / + - : = > <= < >= ; ( ) # { } 	, 	" 
+! \n letter
